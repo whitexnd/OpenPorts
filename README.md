@@ -4,5 +4,7 @@ You can add the puertosabiertosfunction on your ~./bash or ~./zshrc
 
 
 Usage:
+
       ./puertosabiertos.sh              // Parse default file (/proc/net/tcp)
+      
       ./puertosabiertos.sh ./data       // Give a file to parse
