@@ -1,4 +1,4 @@
-OpenPorts is a Script that allows you to get what ports are currently open on your machine or with an /proc/net/tcp file of another machine
+OpenPorts is a Script that allows you to know which ports are currently open on your machine or within a /proc/net/tcp file of another machine
 
 You can add the puertosabiertosfunction on your ~./bash or ~./zshrc 
 
