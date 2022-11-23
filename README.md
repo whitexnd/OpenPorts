@@ -11,4 +11,5 @@ Usage:
       ./puertosabiertos.sh ./data       // Give a file to parse
 ```
 
-![image](https://user-images.githubusercontent.com/103772333/203122355-77428112-407d-4004-af20-3a0a5c3c4408.png)
+![image](https://user-images.githubusercontent.com/103772333/203631604-6dab09b4-dfa6-4af3-849c-202d34f4a7de.png)
+
